@@ -10,6 +10,7 @@ Investigating Airport Data in North American Airports in the year preceding (and
     - A file that can be accessed by the next Python Program
 3. Create Python program that looks at those two files and do analysis
     - Idk we figure later whoever gets this part will figure it out :)
+        - Unsupervised learning - maybe treat our project as a clustering problem? 
     - First we visualize the data 
     - Then we do some ML 
 
@@ -19,3 +20,6 @@ Investigating Airport Data in North American Airports in the year preceding (and
 - Get some ML by Nov 30th
 - Get some words by December 7th 
 - Project due December 11th
+
+## COVID Data
+- Discard Diamond Princess Cruise cases (This was in Japan, but there were infected Americans and Canadians)
