@@ -3,7 +3,7 @@
 Investigating Airport Data in North American Airports in the year preceding (and during) the COVID-19 pandemic.
 
 ## IMMEDIATE TO DO:
-1. Get that github data and comb through daily reports to get ONLY Canada and US from csse_covid_19_data folder → csv files, plus one column = worldwide total **(Kinda done, need to double check)**
+1. Get that github data and comb through daily reports to get ONLY Canada and US from csse_covid_19_data folder → csv files, plus one column = worldwide total **(Done)**
     - Cutoff dates: '2020-03-16' to '2020-10-16' ← to match w/ kaggle airport data
     - Turn into one (or 2?) dataframe/file for case_counts
 2. Somehow download kaggle data and turn it into something
@@ -24,9 +24,7 @@ Investigating Airport Data in North American Airports in the year preceding (and
 - Discard Diamond Princess Cruise cases (This was in Japan, but there were infected Americans and Canadians)
 - What about Grand Princess? (Happened in USA)
 - Leave out US Virgin Islands? (i.e. Puerto Rico)
-- Last Updated Date (??? is it not the date of upload)
-- Check content... data looks kinda sus
-- Need to figure out way of deploying data (dataframes may be a bit too big for submission)
+- Figure out how to interpret data and make it workable
 - Needs further cleaning; check for possibility of imbalanced data
 
 ## Machine Learning
