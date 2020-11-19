@@ -29,6 +29,8 @@ Investigating Airport Data in North American Airports in the year preceding (and
 
 ## Machine Learning
 - Figure out approach/question
+- Regression to find airport pecentage baseline values
+    - Add extra features to covid data set 
 - Supervised Learning
     - Treat as Classification -> Increase in traffic, decrease in traffic etc.
     - Regression -> Produce PercentofBaseline values
