@@ -2,11 +2,11 @@
 
 Investigating Airport Data in North American Airports in the year preceding (and during) the COVID-19 pandemic.
 
-## IMMEDIATE TO DO:
+## IMMEDIATE TO DO (pls update):
 1. Get that github data and comb through daily reports to get ONLY Canada and US from csse_covid_19_data folder → csv files, plus one column = worldwide total **(Done)**
     - Cutoff dates: '2020-03-16' to '2020-10-16' ← to match w/ kaggle airport data
     - Turn into one (or 2?) dataframe/file for case_counts
-2. Somehow download kaggle data and turn it into something
+2. Somehow download kaggle data and turn it into something **(Done??)**
     - A file that can be accessed by the next Python Program
 3. Create Python program that looks at those two files and do analysis
     - Idk we figure later whoever gets this part will figure it out :)
@@ -35,4 +35,10 @@ Investigating Airport Data in North American Airports in the year preceding (and
     - Treat as Classification -> Increase in traffic, decrease in traffic etc.
     - Regression -> Produce PercentofBaseline values
 - Unsupervised Learning
-    - Clustering
+    - Clustering    
+- Possible Ideas/Approachs
+    - Pretend we are Air Canada or some American airline. Determine how many planes to send out to certain destination within US and Canada, or we should increase/decrease/preserve the number of flights to the destination.
+    - ^ or if it is a good idea to plan flights at all to that destination
+    - Predictions for when covid vaccines come out
+
+
