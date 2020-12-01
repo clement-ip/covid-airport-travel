@@ -21,11 +21,17 @@ Investigating Airport Data in North American Airports in the year preceding (and
 - Project due December 11th
 
 ## COVID Data
-- Discard Diamond Princess Cruise cases (This was in Japan, but there were infected Americans and Canadians)
-- What about Grand Princess? (Happened in USA)
-- Leave out US Virgin Islands? (i.e. Puerto Rico)
+- Outliers **Done**
+    - Discard Diamond Princess Cruise cases (This was in Japan, but there were infected Americans and Canadians)
+    - What about Grand Princess? (Happened in USA)
+    - Leave out US Virgin Islands? (i.e. Puerto Rico)
 - Figure out how to interpret data and make it workable
-- Needs further cleaning; check for possibility of imbalanced data
+- **Check for possibility of imbalanced data**
+
+## Airports Data
+- USA/Canada airport groupings done
+- **TODO: Need to seperate into their own/each respective group or dataframe. Export as .csv? Figure out what works best with ML**
+- **TODO: Canada - Figure out what to do for missing provinces/territories**
 
 ## Machine Learning
 - Figure out approach/question
