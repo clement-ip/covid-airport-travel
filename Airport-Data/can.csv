@@ -1,0 +1,5 @@
+,airport,country,distance(km),lat,long,state/province
+0,Toronto Pearson,Canada,943.9968089808716,51.2538,-85.3232,Ontario
+2,Vancouver International,Canada,591.327410171947,53.7267,-127.6476,British Columbia
+4,Calgary International,Canada,357.76856263354813,53.9333,-116.5765,Alberta
+6,Montreal Trudeau,Canada,830.9725976394565,52.9399,-73.5491,Quebec
