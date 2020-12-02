@@ -12,6 +12,7 @@ Investigating Airport Data in North American Airports in the year preceding (and
     - Idk we figure later whoever gets this part will figure it out :)
     - First we visualize the data 
     - Then we do some ML 
+4. is there a relation between case count and baseline? Is it statistically significant?
 
 ## Timeline
 - When are we going to do this? → very suggestive
@@ -45,6 +46,26 @@ Investigating Airport Data in North American Airports in the year preceding (and
 - Possible Ideas/Approachs
     - Pretend we are Air Canada or some American airline. Determine how many planes to send out to certain destination within US and Canada, or we should increase/decrease/preserve the number of flights to the destination.
     - ^ or if it is a good idea to plan flights at all to that destination
-    - Predictions for when covid vaccines come out
+    - ~~Predictions for when covid vaccines come out~~
 
 
+## Problem Statement (put this onto the report later)
+
+Problem Statement:
+
+Team ACE is commissioned by Air Canada and Delta Airlines to determine how they should circulate flights during the trying times of the pandemic. They would like us to produce a machine learning model that predicts how air traffic would fare in their main airport hubs*. In the event of a wave of infections, would people prefer to stay where they are or would they want to take the first flight home? What would people do if the curve of infections flatten?
+
+It is difficult to guarantee a prediction of exact percentages of airport traffic (compared pre-pandemic rates from 1st February to 15th March 2020) or give an estimate of how many flights they should send out. We compromised with these airlines, and promised that we could give them general guidance on whether they should decrease, increase or maintain the number of flights based on the extrapolated traffic percentage of pre-pandemic numbers. 
+
+Airline Hubs - 
+Air Canada:
+Calgary
+Montreal Trudeau
+Toronto Pearson
+Vancouver
+
+Delta Airlines:
+Atlanta
+Los Angeles
+New York (JFK)
+Seattle
