@@ -48,6 +48,12 @@ Investigating Airport Data in North American Airports in the year preceding (and
     - ^ or if it is a good idea to plan flights at all to that destination
     - ~~Predictions for when covid vaccines come out~~
 
+## Other notes:
+### Assumptions
+- Travellers went to the nearest airport to their county (USA)
+- All of ontario went to Toronto... etc
+- make it domestic travel only? given travel ban
+
 
 ## Problem Statement (put this onto the report later)
 
