@@ -29,11 +29,6 @@ Investigating Airport Data in North American Airports in the year preceding (and
 - Figure out how to interpret data and make it workable
 - **Check for possibility of imbalanced data**
 
-## Airports Data
-- USA/Canada airport groupings done
-- **TODO: Need to seperate into their own/each respective group or dataframe. Export as .csv? Figure out what works best with ML**
-- **TODO: Canada - Figure out what to do for missing provinces/territories**
-
 ## Machine Learning
 - Figure out approach/question
 - Regression to find airport pecentage baseline values
@@ -55,23 +50,3 @@ Investigating Airport Data in North American Airports in the year preceding (and
 - make it domestic travel only? given travel ban
 
 
-## Problem Statement (put this onto the report later)
-
-Problem Statement:
-
-Team ACE is commissioned by Air Canada and Delta Airlines to determine how they should circulate flights during the trying times of the pandemic. They would like us to produce a machine learning model that predicts how air traffic would fare in their main airport hubs*. In the event of a wave of infections, would people prefer to stay where they are or would they want to take the first flight home? What would people do if the curve of infections flatten?
-
-It is difficult to guarantee a prediction of exact percentages of airport traffic (compared pre-pandemic rates from 1st February to 15th March 2020) or give an estimate of how many flights they should send out. We compromised with these airlines, and promised that we could give them general guidance on whether they should decrease, increase or maintain the number of flights based on the extrapolated traffic percentage of pre-pandemic numbers. 
-
-Airline Hubs - 
-Air Canada:
-Calgary
-Montreal Trudeau
-Toronto Pearson
-Vancouver
-
-Delta Airlines:
-Atlanta
-Los Angeles
-New York (JFK)
-Seattle
