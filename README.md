@@ -28,6 +28,7 @@ Investigating Airport Data in North American Airports in the year preceding (and
     - Leave out US Virgin Islands? (i.e. Puerto Rico)
 - Figure out how to interpret data and make it workable
 - **Check for possibility of imbalanced data**
+- Analyze Statistical significance of relation between case counts and airport data
 
 ## Machine Learning
 - Figure out approach/question
