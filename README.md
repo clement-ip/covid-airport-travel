@@ -30,7 +30,7 @@ In this project we develop machine learning models that extrapolate and predict 
 ```
 353project
 ├── Airport-Data
-├── Archieved-Data
+├── Archived-Data
 ├── Covid-Data
 ├── analyzeYEG.ipynb
 ├── analyzeYUL.ipynb
