@@ -32,6 +32,8 @@ In this project we develop machine learning models that extrapolate and predict 
 ├── Airport-Data -> Contains the airport traffic data for each airport.
 ├── Archived-Data -> Contains the scripts used to filter and produce dataframes for analysis.
 ├── Covid-Data -> Contains the COVID-19 numbers for each province.
+├── analyze_covid_hubs.ipynb -> An intial examination of the province's Covid situation.
+├── analyze_airport_hubs.ipynb -> An intial examination of the airport's traffic trend.
 ├── analyzeYEG.ipynb
 ├── analyzeYUL.ipynb
 ├── analyzeYVR.ipynb
