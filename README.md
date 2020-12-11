@@ -29,9 +29,9 @@ In this project we develop machine learning models that extrapolate and predict 
 
 ```
 353project
-├── Airport-Data
-├── Archived-Data
-├── Covid-Data
+├── Airport-Data -> Contains the airport traffic data for each airport.
+├── Archived-Data -> Contains the scripts used to filter and produce dataframes for analysis.
+├── Covid-Data -> Contains the COVID-19 numbers for each province.
 ├── analyzeYEG.ipynb
 ├── analyzeYUL.ipynb
 ├── analyzeYVR.ipynb
