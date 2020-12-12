@@ -8,7 +8,7 @@ Contributors: Anna Tang, Clement Ip, Erica Ho
 
 Required Libraries:
 ```
-pip install scipy pandas numpy matplotlib seaborn sklearn scipy geopandas contextily descartes
+pip install scipy pandas numpy matplotlib seaborn sklearn scipy geopandas contextily descartes shapely
 ```
 
 Work for each airport can be viewed by running its respective .ipynb notebook file.
@@ -25,7 +25,7 @@ Results of our analyze can be viewed by running each of the available .ipynb not
 353project
 ├── Airport-Data -> Contains the airport traffic data for each airport.
 ├── Archived-Data -> Contains the scripts used to filter and produce dataframes for analysis.
-├── Covid-Data -> Contains the COVID-19 numbers for each province.
+├── Covid-Data -> Contains the COVID-19 data for each province.
 ├── analyze_covid_hubs.ipynb -> An intial examination of the province's Covid situation.
 ├── analyze_airport_hubs.ipynb -> An intial examination of the airport's traffic trend.
 ├── analyzeYEG.ipynb
