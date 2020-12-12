@@ -8,7 +8,7 @@ Contributors: Anna Tang, Clement Ip, Erica Ho
 
 Required Libraries:
 ```
-pip install scipy pandas numpy matplotlib seaborn sklearn scipy geopandas contextily contextily
+pip install scipy pandas numpy matplotlib seaborn sklearn scipy geopandas contextily descartes
 ```
 
 Work for each airport can be viewed by running its respective .ipynb notebook file.
