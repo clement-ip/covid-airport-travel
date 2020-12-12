@@ -36,7 +36,7 @@ Results of our analyze can be viewed by running each of the available .ipynb not
 ├── analyze_covid_hubs.ipynb -> An intial examination of the province's Covid situation.
 ├── analyze_airport_hubs.ipynb -> An intial examination of the airport's traffic trend.
 ├── analyzeYEG.ipynb -> Data and results for Calgary (YEG)
-├── analyzeYUL.ipynb -> Data and result for Monteral (YUL)
+├── analyzeYUL.ipynb -> Data and results for Monteral (YUL)
 ├── analyzeYVR.ipynb -> Data and results for Vancouver (YVR)
 ├── analyzeYYZ.ipynb -> Data and results for Toronto (YYZ)
 ```
