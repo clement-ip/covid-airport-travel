@@ -1,10 +1,14 @@
-# CMPT 353 Final Project
-
-Topic: Investigating Airport Data in North American Airports in the year preceding (and during) the COVID-19 pandemic.
+# Investigating Airport Data in North American Airports in the year preceding (and during) the COVID-19 pandemic.
 
 Contributors: Anna Tang, Clement Ip, Erica Ho
 
-## Instructions:
+## Description
+
+In this project we develop machine learning models that extrapolate and predict how airport traffic will fare in YVR, YEG, YYZ, and YUL during the pandemic. We also analyze the correlation between airport traffic and the number new cases per day, as well as the cumulative number of confirmed cases. 
+
+Results of our analyze can be viewed by running each of the available .ipynb notebook files.
+
+## Instructions/Pre-Requisites:
 It is recommended that Python 3.7+, and the Jupyter Notebook be installed. These can be easily installed with the follwing commands (for Debain/Ubuntu):
 ```
 sudo apt-get install python3 python3-dev python3-pip
@@ -16,14 +20,7 @@ Additionally, the following libraries are required for this project and can easi
 ```
 pip install scipy pandas numpy matplotlib seaborn sklearn scipy geopandas contextily descartes shapely
 ```
-
 Work for each airport can be viewed by running its respective .ipynb notebook file.
-
-## Output
-
-In this project we develop machine learning models that extrapolate and predict how airport traffic will fare in YVR, YEG, YYZ, and YUL during the pandemic. We also analyze the correlation between airport traffic and the number new cases per day, as well as the cumulative number of confirmed cases. 
-
-Results of our analyze can be viewed by running each of the available .ipynb notebook files.
 
 ## File Directory 
 
