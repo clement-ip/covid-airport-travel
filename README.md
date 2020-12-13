@@ -9,7 +9,7 @@ In this project we develop machine learning models that extrapolate and predict 
 Results of our analyze can be viewed by running each of the available .ipynb notebook files, as well as viewing our report (see `Report.pdf`)
 
 ## Instructions/Pre-Requisites:
-It is recommended that Python 3.7+, and the Jupyter Notebook be installed. These can be easily installed with the follwing commands (for Debain/Ubuntu):
+It is recommended that Python 3.7+, and the Jupyter Notebook be installed. These can be easily installed with the following commands (for Debain/Ubuntu):
 ```
 sudo apt-get install python3 python3-dev python3-pip
 sudo apt-get build-dep python3-scipy python3-matplotlib
