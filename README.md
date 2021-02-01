@@ -6,7 +6,7 @@ Contributors: Anna Tang, Clement Ip, Erica Ho
 
 In this project we develop machine learning models that extrapolate and predict how airport traffic will fare in YVR, YEG, YYZ, and YUL during the pandemic. We also analyze the correlation between airport traffic and the number new cases per day, as well as the cumulative number of confirmed cases. 
 
-Results of our analyze can be viewed by running each of the available .ipynb notebook files, as well as viewing our report (see `Report.pdf`)
+Results of our analysis can be viewed by running each of the available Jupyter Notebook files (`.ipynb`), as well as viewing our report (see `Report.pdf`)
 
 ## Instructions/Pre-Requisites:
 It is recommended that Python 3.7+, and the Jupyter Notebook be installed. These can be easily installed with the following commands (for Debain/Ubuntu):
@@ -20,7 +20,7 @@ Additionally, the following libraries are required for this project and can easi
 ```
 pip install scipy pandas numpy matplotlib seaborn sklearn scipy geopandas contextily descartes shapely
 ```
-Work for each airport can be viewed by running its respective .ipynb notebook file.
+Work for each airport can be viewed by running its respective `.ipynb` notebook file.
 
 ## File Directory 
 
