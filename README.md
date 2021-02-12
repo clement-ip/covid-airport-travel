@@ -1,4 +1,4 @@
-# Investigating Airport Data in North American Airports in the year preceding (and during) the COVID-19 Pandemic.
+# Investigating Airport Data in Canadian Airports in the year preceding (and during) the COVID-19 Pandemic.
 
 Contributors: Anna Tang, Clement Ip, Erica Ho
 
